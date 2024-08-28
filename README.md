@@ -3,8 +3,8 @@ This repository features a Python project for cleaning and transforming the FIFA
 
 This project answer the following questions:
 
-Do the height and weight columns have the appropriate data types?
-Can you seperate the joined column into year, month and day columns?
-Can you clean and transform the value, wage and release clause into columns of integer?
-How can you remove the newline characters from the Hits column?
-Should you seperate the Team & Contract column into separate Team and Contract columns?
+- Do the height and weight columns have the appropriate data types?
+- Can you seperate the joined column into year, month and day columns?
+- Can you clean and transform the value, wage and release clause into columns of integer?
+- How can you remove the newline characters from the Hits column?
+- Should you seperate the Team & Contract column into separate Team and Contract columns?
